@@ -43,4 +43,4 @@ done < "$input_file"
 Conclusion
 This script simplifies managing users and groups on a Linux system, ensuring security and efficiency. Automating these tasks not only saves time but also reduces the risk of human error.
 
-For more information on the HNG internship program and to learn how to become a world-class developer, visit HNG Internship and [HNG Premium(https://hng.tech/premium).
+For more information on the HNG internship program and to learn how to become a world-class developer, visit HNG Internship(https://hng.tech/internship) and [HNG Premium(https://hng.tech/premium).
